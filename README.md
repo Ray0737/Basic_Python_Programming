@@ -1,24 +1,30 @@
-# Python Programming
-M.4 Semester 1 Coursework
+# Classwork | Basic Python Programming
 
-This repository is dedicated to storing all **classwork and homework** completed during the first semester of my **Artificial Intelligence Engineering** major. It serves as a comprehensive record of fundamental programming concepts learned in Python.
+## Project Details:
 
-## 📚 Key Topics Covered
+This repository is dedicated to storing all **classwork and homework** completed during M.4 Semester 1.
 
-* ### **Fundamentals**
-    Comments, variables, data types (strings, booleans, type casting), input/output, operators (arithmetic, comparison, logical, assignment), indentation, and membership.
+---
 
-* ### **Data Structures**
-    Lists, tuples, sets, and dictionaries.
+## Project Status:
 
-* ### **Control Flow**
-    Conditional statements, `for` loops, `while` loops, and control keywords (`break`, `continue`, `pass`).
+| Detail | Value |
+| :--- | :--- |
+| **Topic** |  Fundemental, Data Structures, Control Flow, Functions, OOP, Modules, and Libraries |
+| **File 1** | String Command |
+| **File 2** | Input Command |
+| **File 3** | Data types & Data structures |
+| **File 4** | Conditional Statements |
+| **File 5** | While loop & For loop |
+| **File 6** | Functions |
+| **File 7** | Tuple & Dicionary  |
+| **File 8** | OOP |
+| **File 9** | GUI - 1 |
+| **File 10** | GUI - 2 |
+| **File 11** | GUI - 3 |
 
-* ### **Functions**
-    Defining and calling functions, positional and keyword arguments, arbitrary arguments (`*args`, `**kwargs`), and Lambda functions.
+---
 
-* ### **Object-Oriented Programming (OOP)**
-    Classes & objects, inheritance, and encapsulation.
+## ⚠️ Deployment Note:
 
-* ### **Modules & Libraries**
-    Importing modules, aliasing, and examples of built-in/custom modules (e.g., `Math`, `Random`, `Tkinter`, `JSON`, `OS`).
+When deploying to a new server, please **verify all image file paths** (e.g., `pic\...`) to ensure that every picture displays correctly across the site.
