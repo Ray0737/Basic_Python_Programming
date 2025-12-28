@@ -24,6 +24,8 @@ This repository is dedicated to storing all **classwork and homework** completed
 | **File 11** | GUI - 3 |
 | **Summary Video** | https://youtu.be/ix9cRaBkVe0?si=qnEyhYN4wBzHq9s8 |
 
+**Credit:** Bro Code Youtube Channel
+
 ---
 
 ## ⚠️ Deployment Note:
