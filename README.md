@@ -22,9 +22,7 @@ This repository is dedicated to storing all **classwork and homework** completed
 | **File 9** | GUI - 1 |
 | **File 10** | GUI - 2 |
 | **File 11** | GUI - 3 |
-| **Summary Video** | https://youtu.be/ix9cRaBkVe0?si=qnEyhYN4wBzHq9s8 |
-
-**Credit:** Bro Code Youtube Channel
+| **Recommended Video** | Bro Code YT: https://youtu.be/ix9cRaBkVe0?si=qnEyhYN4wBzHq9s8 |
 
 ---
 
